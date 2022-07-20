@@ -18,12 +18,14 @@ fetch(baseUrl)
         });
     })
 
-const getCharResults = () => {
+const getCharResults = (e) => {
+    e.preventDefault()
     const searchInput = document.getElementById("search")
 
     fetch(`https://rickandmortyapi.com/api/character/?name=${searchInput.value}`)
         .then(res => res.json())
         .then(data => {
+            // THIS IS BECAUSE THE ".catch()" DID NOT WORK
             if(data.error) {
                 const errorMessage = document.createElement("h4")
 
@@ -32,6 +34,8 @@ const getCharResults = () => {
 
                 searchDiv.appendChild(errorMessage)
             } else {
+                searchDiv.innerHTML = ""
+
                 data.results.forEach(char => {
                     makeCharDiv(char.image, char.name, char.origin.name, char.status, searchDiv)
                 })
