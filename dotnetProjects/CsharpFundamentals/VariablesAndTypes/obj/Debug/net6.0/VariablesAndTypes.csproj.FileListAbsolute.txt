@@ -1,0 +1,15 @@
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes.deps.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes.runtimeconfig.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/bin/Debug/net6.0/VariablesAndTypes.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.AssemblyInfo.cs
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/refint/VariablesAndTypes.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/VariablesAndTypes.genruntimeconfig.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/VariablesAndTypes/obj/Debug/net6.0/ref/VariablesAndTypes.dll
