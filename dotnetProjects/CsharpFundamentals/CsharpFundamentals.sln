@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesAndTypes", "VariablesAndTypes\VariablesAndTypes.csproj", "{ED995F18-21A2-4ADD-A907-AE2CA19EF07E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{9CB3ECD5-DC9E-4ADF-8661-AAF6834EDDF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{ED995F18-21A2-4ADD-A907-AE2CA19EF07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED995F18-21A2-4ADD-A907-AE2CA19EF07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED995F18-21A2-4ADD-A907-AE2CA19EF07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB3ECD5-DC9E-4ADF-8661-AAF6834EDDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB3ECD5-DC9E-4ADF-8661-AAF6834EDDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB3ECD5-DC9E-4ADF-8661-AAF6834EDDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB3ECD5-DC9E-4ADF-8661-AAF6834EDDF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

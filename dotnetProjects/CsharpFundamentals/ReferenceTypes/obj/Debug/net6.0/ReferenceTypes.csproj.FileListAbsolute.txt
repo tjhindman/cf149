@@ -1,0 +1,15 @@
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes.deps.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes.runtimeconfig.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.AssemblyInfo.cs
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/refint/ReferenceTypes.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.genruntimeconfig.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/ReferenceTypes/obj/Debug/net6.0/ref/ReferenceTypes.dll
