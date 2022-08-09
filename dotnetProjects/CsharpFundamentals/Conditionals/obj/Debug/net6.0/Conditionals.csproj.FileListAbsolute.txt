@@ -1,0 +1,15 @@
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/bin/Debug/net6.0/Conditionals
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/bin/Debug/net6.0/Conditionals.deps.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/bin/Debug/net6.0/Conditionals.runtimeconfig.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/bin/Debug/net6.0/Conditionals.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/bin/Debug/net6.0/Conditionals.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/Conditionals.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/Conditionals.AssemblyInfo.cs
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/Conditionals.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/refint/Conditionals.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/Conditionals.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/Conditionals.genruntimeconfig.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Conditionals/obj/Debug/net6.0/ref/Conditionals.dll
