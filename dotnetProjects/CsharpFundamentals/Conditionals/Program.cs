@@ -1,68 +1,68 @@
 ﻿// ! IF STATEMENTS
 
-// bool isHungry = false;
+bool isHungry = false;
 
-// // only executes the code block "if" true
-// if (isHungry)
-// {
-//     System.Console.WriteLine("Order some pizza dude!");
-// }
+// only executes the code block "if" true
+if (isHungry)
+{
+    System.Console.WriteLine("Order some pizza dude!");
+}
 
-// // ! IF/ELSE STATEMENTS
+// ! IF/ELSE STATEMENTS
 
-// // gives an option for what to execute if the condition is false
-// if (isHungry)
-// {
-//     System.Console.WriteLine("get some Culver's");
-// } 
-// else
-// {
-//     System.Console.WriteLine("chill out and watch some tv");
-// }
+// gives an option for what to execute if the condition is false
+if (isHungry)
+{
+    System.Console.WriteLine("get some Culver's");
+} 
+else
+{
+    System.Console.WriteLine("chill out and watch some tv");
+}
 
-// // ! ELSE IF STATEMENTS and NESTING CONDITIONALS
+// ! ELSE IF STATEMENTS and NESTING CONDITIONALS
 
-// int age = 50;
+int age = 50;
 
-// if (age < 10)
-// {
-//     System.Console.WriteLine("it's past your bedtime go to bed");
-// }
-// else
-// {
-//     if (age < 18)
-//     {
-//         System.Console.WriteLine("you're out past curfew");
-//     }
-//     else if (age < 21)
-//     {
-//         System.Console.WriteLine("get out of the bar or I'll call the cops");
-//     }
-//     else
-//     {
-//         System.Console.WriteLine("enjoy the party!");
-//     }
-// }
+if (age < 10)
+{
+    System.Console.WriteLine("it's past your bedtime go to bed");
+}
+else
+{
+    if (age < 18)
+    {
+        System.Console.WriteLine("you're out past curfew");
+    }
+    else if (age < 21)
+    {
+        System.Console.WriteLine("get out of the bar or I'll call the cops");
+    }
+    else
+    {
+        System.Console.WriteLine("enjoy the party!");
+    }
+}
 
 
-// // ! IF/ELSE STATEMENTS WITH COMPARISON OPERATORS
+// ! IF/ELSE STATEMENTS WITH COMPARISON OPERATORS
 
-// if (age > 51 || age < 70)
-// {
-//     System.Console.WriteLine("enjoy retirement!");
-// }
-// else if (age == 50)
-// {
-//     System.Console.WriteLine("halfway to a century!");
-// }
-// else if (age < 50 && age > 21)
-// {
-//     System.Console.WriteLine("get to work!");
-// }
-// else
-// {
-//     System.Console.WriteLine("go to school!");
-// }
+if (age > 51 || age < 70)
+{
+    System.Console.WriteLine("enjoy retirement!");
+}
+else if (age == 50)
+{
+    System.Console.WriteLine("halfway to a century!");
+}
+else if (age < 50 && age > 21)
+{
+    System.Console.WriteLine("get to work!");
+}
+else
+{
+    System.Console.WriteLine("go to school!");
+}
 
 /*
     SWITCH CASES!!

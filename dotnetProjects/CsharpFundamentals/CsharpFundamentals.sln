@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{3DBCCFCF-DC4E-47F2-90FA-C95D6DBA23CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{3ABE9C66-D0E9-4A8A-A9D0-16C1962174CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{3DBCCFCF-DC4E-47F2-90FA-C95D6DBA23CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DBCCFCF-DC4E-47F2-90FA-C95D6DBA23CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DBCCFCF-DC4E-47F2-90FA-C95D6DBA23CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ABE9C66-D0E9-4A8A-A9D0-16C1962174CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABE9C66-D0E9-4A8A-A9D0-16C1962174CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABE9C66-D0E9-4A8A-A9D0-16C1962174CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABE9C66-D0E9-4A8A-A9D0-16C1962174CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
