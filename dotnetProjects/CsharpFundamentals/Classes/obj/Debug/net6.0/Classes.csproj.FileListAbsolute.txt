@@ -1,0 +1,15 @@
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/bin/Debug/net6.0/Classes
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/bin/Debug/net6.0/Classes.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/Classes.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/Classes/obj/Debug/net6.0/ref/Classes.dll
