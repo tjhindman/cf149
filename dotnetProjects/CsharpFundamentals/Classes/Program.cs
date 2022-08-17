@@ -42,7 +42,7 @@ greeter.SayHello("Michael");
 // calculator ex
 Calculator calculator = new Calculator();
 
-System.Console.WriteLine($"Add integer: {calculator.Add(15, 22)}\nAdd double: {calculator.Add(1.2, 22.1)}\nSubtract: {calculator.Subtract(400, 22)}\nMultiply: {calculator.Multiply(90, 49)}\nDivide: {calculator.Divide(100,2)}\n");
+System.Console.WriteLine($"Add integer: {calculator.Add(15, 22)}\nAdd double: {calculator.Add(1.2, 22.1)}\nSubtract: {calculator.Subtract(400, 22)}\nMultiply: {calculator.Multiply(90, 49)}\nDivide: {calculator.Divide(100,2)}\nStatic GetRandomNum() method: {Calculator.GetRandomNum(500)}");
 
 /*
     PROPERTIES IN C# CLASSES:
@@ -173,6 +173,14 @@ public class Greeter {
 }
 
 public class Calculator {
+    // STATIC METHODS = methods that apply to the entire class rather than only applying to an instance of the class
+    public static int GetRandomNum(int maxVal) {
+        Random random = new Random();
+
+        int randNum = random.Next(maxVal);
+        return randNum;
+    }
+
     public int Add(int numOne, int numTwo) {
         return numOne + numTwo;
     }

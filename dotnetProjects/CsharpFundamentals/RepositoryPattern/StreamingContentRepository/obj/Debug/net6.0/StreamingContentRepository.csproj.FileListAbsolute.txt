@@ -1,0 +1,12 @@
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/bin/Debug/net6.0/StreamingContentRepository.deps.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/bin/Debug/net6.0/StreamingContentRepository.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/bin/Debug/net6.0/StreamingContentRepository.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepository.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepository.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepository.AssemblyInfo.cs
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepository.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepository.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/obj/Debug/net6.0/refint/StreamingContentRepository.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepository.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/dotnetProjects/CsharpFundamentals/RepositoryPattern/StreamingContentRepository/obj/Debug/net6.0/ref/StreamingContentRepository.dll
