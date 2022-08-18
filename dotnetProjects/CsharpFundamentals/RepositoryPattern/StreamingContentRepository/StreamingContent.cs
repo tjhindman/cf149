@@ -33,5 +33,5 @@ public class StreamingContent
     public GenreType TypeOfGenre { get; set; }
 }
 
-public enum MaturityRating { G, PG, PG13, R, X, TVMA, NC17 }
-public enum GenreType { SciFi, Documentary, Comedy, Horror, Action, Thriller, Western, RomCom }
+public enum MaturityRating { G = 1, PG, PG13, R, X, TVMA, NC17 }
+public enum GenreType { SciFi = 1, Documentary, Comedy, Horror, Action, Thriller, Western, RomCom }
