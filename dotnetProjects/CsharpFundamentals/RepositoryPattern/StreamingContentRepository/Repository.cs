@@ -29,17 +29,17 @@ public class Repository
         StreamingContent oldContent = GetContentByTitle(originalTitle);
 
         if(oldContent != null) {
-            oldContent.Title = newContent.Title != null ? newContent.Title : oldContent.Title;
+            oldContent.Title = newContent.Title != "" ? newContent.Title : oldContent.Title;
 
-            oldContent.Description = newContent.Description != null ? newContent.Description : oldContent.Description;
+            oldContent.Description = newContent.Description != "" ? newContent.Description : oldContent.Description;
 
             oldContent.StarRating = newContent.StarRating != 0 ? newContent.StarRating : oldContent.StarRating;
 
             // MaturityRating is "enum" type. default for "enum" is 0 index of enum, which would be "MaturityRating.G" in this case
-            oldContent.MaturityRating = newContent.MaturityRating != MaturityRating.G ? newContent.MaturityRating : oldContent.MaturityRating;
+            oldContent.MaturityRating = newContent.MaturityRating != 0 ? newContent.MaturityRating : oldContent.MaturityRating;
 
             // 0 index of GenreType is "GenreType.SciFi" in this case which is the reason for this comparison
-            oldContent.TypeOfGenre = newContent.TypeOfGenre != GenreType.SciFi ? newContent.TypeOfGenre : oldContent.TypeOfGenre;
+            oldContent.TypeOfGenre = newContent.TypeOfGenre != 0 ? newContent.TypeOfGenre : oldContent.TypeOfGenre;
 
             return true;
         } else {
