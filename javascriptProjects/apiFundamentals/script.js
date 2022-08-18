@@ -5,6 +5,13 @@ const containerDiv = document.getElementById('container')
 
 const searchDiv = document.getElementById('searchContainer')
 
+document.getElementById("search").addEventListener("keypress", (e) => {
+    if (e.key === "Enter") {
+        e.preventDefault()
+        document.getElementById("button").click()
+    }
+})
+
 // method used by JS to "fetch" information to/from an API and returns a PROMISE meaning it will "promise" to return data once "fetching" process has finished
 fetch(baseUrl)
     // first need to transform "fulfilled" promise into JSON (JavaScript Object Notation)

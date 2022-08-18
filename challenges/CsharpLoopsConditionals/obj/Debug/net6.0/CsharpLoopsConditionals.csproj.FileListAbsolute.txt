@@ -1,0 +1,15 @@
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/bin/Debug/net6.0/CsharpLoopsConditionals
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/bin/Debug/net6.0/CsharpLoopsConditionals.deps.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/bin/Debug/net6.0/CsharpLoopsConditionals.runtimeconfig.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/bin/Debug/net6.0/CsharpLoopsConditionals.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/bin/Debug/net6.0/CsharpLoopsConditionals.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/CsharpLoopsConditionals.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/CsharpLoopsConditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/CsharpLoopsConditionals.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/CsharpLoopsConditionals.AssemblyInfo.cs
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/CsharpLoopsConditionals.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/CsharpLoopsConditionals.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/refint/CsharpLoopsConditionals.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/CsharpLoopsConditionals.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/CsharpLoopsConditionals.genruntimeconfig.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CsharpLoopsConditionals/obj/Debug/net6.0/ref/CsharpLoopsConditionals.dll

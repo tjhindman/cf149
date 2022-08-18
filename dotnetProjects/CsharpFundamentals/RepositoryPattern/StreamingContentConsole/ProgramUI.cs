@@ -40,7 +40,7 @@ public class ProgramUI {
                     UpdateContentByTitle();
                     break;
                 case "5":
-                    System.Console.WriteLine("delete");
+                    DeleteContent();
                     break;
                 case "6":
                     System.Console.WriteLine("bye bye!");
@@ -211,8 +211,22 @@ public class ProgramUI {
             System.Console.WriteLine("there is no content with that title... try option 2 from the menu to see what you are able to view");
         }
     }
+    
     // delete
+    private void DeleteContent() {
+        Console.Clear();
+        
+        System.Console.WriteLine("Please enter the title for the content you would like to delete:");
+        string title = Console.ReadLine();
+        
+        bool wasDeleted = _repo.DeleteContent(title);
 
+        if (wasDeleted) {
+            System.Console.WriteLine("Content was successfully deleted!");
+        } else {
+            System.Console.WriteLine("Problem with deleting your content... Please make sure content exists and spelling of title is correct.");
+        }
+    }
 
     // ! HELPER METHODS
     private void Seed() {
