@@ -1,0 +1,12 @@
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/bin/Debug/net6.0/Cafe_Repository.deps.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/bin/Debug/net6.0/Cafe_Repository.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/bin/Debug/net6.0/Cafe_Repository.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/obj/Debug/net6.0/Cafe_Repository.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/obj/Debug/net6.0/Cafe_Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/obj/Debug/net6.0/Cafe_Repository.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/obj/Debug/net6.0/Cafe_Repository.AssemblyInfo.cs
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/obj/Debug/net6.0/Cafe_Repository.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/obj/Debug/net6.0/Cafe_Repository.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/obj/Debug/net6.0/refint/Cafe_Repository.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/obj/Debug/net6.0/Cafe_Repository.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/CafeRepoPattern/Cafe_Repository/obj/Debug/net6.0/ref/Cafe_Repository.dll

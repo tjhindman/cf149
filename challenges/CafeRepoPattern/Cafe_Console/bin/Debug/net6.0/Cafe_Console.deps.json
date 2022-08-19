@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cafe_Console/1.0.0": {
+        "dependencies": {
+          "Cafe_Repository": "1.0.0"
+        },
+        "runtime": {
+          "Cafe_Console.dll": {}
+        }
+      },
+      "Cafe_Repository/1.0.0": {
+        "runtime": {
+          "Cafe_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cafe_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cafe_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
