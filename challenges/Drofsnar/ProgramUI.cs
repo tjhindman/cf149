@@ -93,7 +93,7 @@ public class ProgramUI {
                         Console.ForegroundColor = ConsoleColor.Magenta;
                         System.Console.WriteLine($"{sequence} detected! 5000 points added!");
 
-                        points += 700;
+                        points += 5000;
                         System.Console.WriteLine($"Point total: {points}");
                         break;
                     default:
