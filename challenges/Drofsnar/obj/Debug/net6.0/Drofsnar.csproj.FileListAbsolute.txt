@@ -1,0 +1,15 @@
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/bin/Debug/net6.0/Drofsnar
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/bin/Debug/net6.0/Drofsnar.deps.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/bin/Debug/net6.0/Drofsnar.runtimeconfig.json
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/bin/Debug/net6.0/Drofsnar.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/bin/Debug/net6.0/Drofsnar.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/Drofsnar.csproj.AssemblyReference.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/Drofsnar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/Drofsnar.AssemblyInfoInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/Drofsnar.AssemblyInfo.cs
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/Drofsnar.csproj.CoreCompileInputs.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/Drofsnar.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/refint/Drofsnar.dll
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/Drofsnar.pdb
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/Drofsnar.genruntimeconfig.cache
+/Users/tj/Desktop/efa/ElevenFiftyAcademy149/challenges/Drofsnar/obj/Debug/net6.0/ref/Drofsnar.dll
